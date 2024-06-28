@@ -1,0 +1,7 @@
+div ~ P::first-letter{
+    color: red;
+}
+
+a[target]{
+    background-color: cyan;
+}
